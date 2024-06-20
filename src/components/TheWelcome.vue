@@ -8,7 +8,7 @@ import SupportIcon from './icons/IconSupport.vue'
 import { reactive } from 'vue'
 
 const resData = reactive({
-   universalLink: 'https://vt.tiktok.com/ZSYPxsVqk/',
+   universalLink: 'https://www.tiktok.com/@theonly.video/video/7297828574252322050',
       deepLink: 'tiktok://video/7297828574252322050'
 })
 
