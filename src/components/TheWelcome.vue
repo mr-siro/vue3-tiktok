@@ -9,7 +9,7 @@ import { reactive } from 'vue'
 
 const resData = reactive({
    universalLink: 'https://vt.tiktok.com/ZSYPxsVqk/',
-      deepLink: 'tiktok://video/1234567890'
+      deepLink: 'tiktok://video/7297828574252322050'
 })
 
   function  openTikTokVideo(event: any) {
